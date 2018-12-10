@@ -1,0 +1,37 @@
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.dll
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Imaging.dll
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Video.dll
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Vision.dll
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Math.dll
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.xml
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Imaging.xml
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Video.xml
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Vision.xml
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\bin\Debug\AForge.Math.xml
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\kırmızı nesne yakalama.csprojResolveAssemblyReference.cache
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\S-M\Documents\Visual Studio 2015\Projects\WindowsFormsApplication12\WindowsFormsApplication12\obj\Debug\kırmızı nesne yakalama.csproj.GenerateResource.Cache
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.Math.dll
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.xml
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.Imaging.xml
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.Video.xml
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.Vision.xml
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\AForge.Math.xml
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\kırmızı nesne yakalama.csprojResolveAssemblyReference.cache
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\kırmızı nesne yakalama.csproj.GenerateResource.Cache
