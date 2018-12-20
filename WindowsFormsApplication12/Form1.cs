@@ -77,11 +77,27 @@ namespace WindowsFormsApplication12
             g = Convert.ToByte(G);
             b = Convert.ToByte(B);
 
-            EuclideanColorFiltering filtre = new EuclideanColorFiltering();
-            filtre.CenterColor = new RGB(r, g, b);
-            filtre.Radius = 100;
-            filtre.ApplyInPlace(image2);
-            
+            if (checkBox1.Checked == true && checkBox2.Checked == false) 
+            {
+                EuclideanColorFiltering filtre = new EuclideanColorFiltering();
+                filtre.CenterColor = new RGB(r, g, b);
+                filtre.Radius = 100;
+                filtre.ApplyInPlace(image2);
+
+            }
+            if (checkBox1.Checked == false && checkBox2.Checked == true)
+            {
+                ColorFiltering filtre1 = new ColorFiltering();
+                filtre1.Red = new IntRange(0, r);
+                filtre1.Green = new IntRange(0, g);
+                filtre1.Blue = new IntRange(0, b);
+                filtre1.ApplyInPlace(image2);
+            }
+            if (checkBox1.Checked == true && checkBox2.Checked == true)
+            {
+                MessageBox.Show("Tek Filtre Seçin");
+            }
+
             image2 = new Mirror(false, true).Apply(image2);
 
             BlobCounter bc = new BlobCounter();
@@ -165,8 +181,18 @@ namespace WindowsFormsApplication12
         {           
            B = trackBar3.Value;
             label7.Text = trackBar3.Value.ToString();        
-        }        
-    
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void trackBar2_Scroll(object sender, EventArgs e)
         {
             G = trackBar2.Value;

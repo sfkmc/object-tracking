@@ -1,0 +1,38 @@
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\ders notları\görüntü işleme\imageproc\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\S-M\Desktop\ders notları\görüntü işleme\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\ders notları\görüntü işleme\imageproc\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.Math.dll
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.xml
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.Imaging.xml
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.Video.xml
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.Vision.xml
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\bin\Debug\AForge.Math.xml
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\obj\Debug\nesne yakalama.csprojResolveAssemblyReference.cache
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\S-M\Desktop\proje\WindowsFormsApplication12\obj\Debug\nesne yakalama.csproj.GenerateResource.Cache
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe.config
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.exe
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\WindowsFormsApplication12.pdb
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.Math.dll
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.xml
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.Imaging.xml
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.Video.xml
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.Vision.xml
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\bin\Debug\AForge.Math.xml
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\obj\Debug\nesne yakalama.csprojResolveAssemblyReference.cache
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Form1.resources
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\obj\Debug\WindowsFormsApplication12.Properties.Resources.resources
+C:\Users\S-M\Desktop\proje-LED\WindowsFormsApplication12\obj\Debug\nesne yakalama.csproj.GenerateResource.Cache
